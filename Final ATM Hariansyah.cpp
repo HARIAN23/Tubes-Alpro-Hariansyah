@@ -13,6 +13,8 @@
 #define ADMIN_FEE 6500
 #define UKT_AMOUNT 2500000
 
+//Nama : Hariansyah
+//Kelas : 12250510364
 
 typedef struct {
     char accountNumber[ACCOUNT_NUMBER_LENGTH];
